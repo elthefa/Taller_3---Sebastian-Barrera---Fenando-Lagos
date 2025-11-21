@@ -1,0 +1,3 @@
+PR001|Plataforma de E-commerce|admin1
+PR002|Sistema de Inventario|admin1
+PR003|Aplicación Móvil de Reservas|admin1
